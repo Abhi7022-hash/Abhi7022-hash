@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi7022-hash
 - 👀 I’m interested in Devops and Cloud Technologies
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Python and AWS
 - 📫 Reach me abhishekdindavar049@gmail.com
 
 
