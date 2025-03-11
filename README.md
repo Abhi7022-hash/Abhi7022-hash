@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi7022-hash
+- 👋 Hi, I’m @Abhi7022
 - 👀 I’m interested in Devops and Cloud Technologies
 - 🌱 I’m currently learning Python and AWS
 - 📫 Reach me abhishekdindavar049@gmail.com
